@@ -1,0 +1,13 @@
+#maintenance-message {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin-top: 50px;
+}
+
+#countdown-timer {
+    text-align: center;
+    font-size: 32px;
+    color: #d9534f;
+    margin-top: 20px;
+}
